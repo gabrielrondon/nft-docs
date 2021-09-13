@@ -25,5 +25,5 @@ Besides the fact that this is a brand new experience to be tested in different p
 
 ## Want to join?
 
-Please start our reading with the [Terms and Conditions]() in our "Getting Started: I want to sell" guide.
+Please start our reading with the [Terms and Conditions](/docs/getting-started/terms-and-conditions/) in our "Getting Started: I want to sell" guide.
 
