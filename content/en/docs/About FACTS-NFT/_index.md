@@ -1,7 +1,7 @@
 
 ---
-title: "Examples"
-linkTitle: "Examples"
+title: "About FACTS-NFT"
+linkTitle: "About FACTS-NFT"
 weight: 3
 date: 2017-01-05
 description: >
