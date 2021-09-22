@@ -1,7 +1,7 @@
 ---
 title: "Creating an Ethereum Wallet"
 linkTitle: "Creating an Ethereum Wallet"
-weight: 3
+weight: 4
 description:
 ---
 
