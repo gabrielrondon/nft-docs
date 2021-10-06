@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Welcome"
+linkTitle: "Welcome"
 weight: 20
 menu:
   main:
@@ -9,16 +9,15 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Welcome to the world of NFTs applied to journalism. 
 {{% /pageinfo %}}
 
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+This documentation was built with the ambition to let you understand what is NFTs and how can you navigate in this world.
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+As you may know (you will see further explanations on this topic), we as FACTS-NFT, we work with *facts*. We apply the NFT technology to be used for anyone that wants to collect facts and especially the media outlets that want to build NFTs using facts.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+Throughout this guide, you will also learn how to buy, how to sell and you will be ready to start to explore this innovation.
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
-
+Have a nice reading.
 
