@@ -9,21 +9,17 @@ description:
 
 1. Test a brand new revenue stream without losing anything
 2. Become a pioneer in your industry
-3. Participate on FACTS-NFT advisory board and make sure there is a structured governance and a clear decision-making process in the project
+3. Participate on FACTS-NFT community
 4. Receive all documentation and guidance needed to open an Ethereum wallet.
-5. See some of your fact checks become visual pieces of art/content to be sold as an NFT. (FACTS-NFT will have a dedicated designer to develop the visual identity of fact checks in this format. Your logo and content will be fully kept and protected)
+5. See some of your news story become visual pieces of art/content to be sold as an NFT.
 6. Participate in the marketing and communication plans for launching.
-7. Forget about keeping track of all transactions. FACTS-NFT will keep you informed.
-8. Forget about significant changes/improvements made by OpenSea and/or by the cryptocurrency system.
+7. Learn how to custody the assets and how to secure the portfolio of NFTs on your own.
 
-Partnering with FACTS-NFT at this stage will let you:
-We know that A/B tests of different kinds will be required and your expertise is needed. As a pioneer of this movement, you can also become part of the FACTS-NFT advisory board.
 
-With FACTS-NFT, we are seeking to launch the first fact check on NFT format and also to create the first international group to discuss and plan the next steps to maximize this new revenue stream.
+With FACTS-NFT, we are seeking to build a strong community with an international reach to discuss and plan the next steps to maximize this new revenue stream.
 
-Besides the fact that this is a brand new experience to be tested in different parts of the world, we truly believe that fact-checkers are stronger when working together. By joining this centralized marketplace for fact checks in NFT format, you will be also treated as a pioneer in your business industry. 
+Besides the fact that this is a brand new experience to be tested in different parts of the world, we genuinely believe that media outlets are stronger when working together. By joining this project, you will also be treated as a pioneer in your business industry. 
 
 ## Want to join?
 
-Please start our reading with the [Terms and Conditions](/docs/getting-started/terms-and-conditions/) in our "Getting Started: I want to sell" guide.
-
+Please start our reading with the [Terms and Conditions](https://facts-nft-docs.appcivico.com/docs/getting-started-i-want-to-sell/) in our "Getting Started: I want to sell" guide.
