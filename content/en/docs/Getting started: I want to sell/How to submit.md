@@ -7,14 +7,14 @@ description:
 
 ## The process?
 
-If you already have everything set-up you can submit a request to our team. If approved our team will mint the fact-check as an NFT. Let's do a recap what you need to do before the request:
+If you already have everything set-up you can submit a request to our team. If approved our team will mint the piece as an NFT. Let's do a recap what you need to do before the request:
 
 - Terms and conditions accepted and communicated to our team
-- Have understood the best practices on how to identify and choose a good fact-check
+- Have understood the best practices on how to identify and choose a good piece to be NFTed
 - Created your organization's ethereum address
 - Bear in mind that FACTS-NFT does not recommend that any cryptocurrency should be bought, sold, or held by you. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
 
-**Choose a simple fact check**: Visualize a painting on the wall containing your fact check. It needs to be succinct and straight to the point. No field for factual contestation. 
+**Choose a simple fact**: Visualize a painting on the wall containing your fact. It needs to be succinct and straight to the point. No field for factual contestation. 
 
 ## Where is the form?
 
