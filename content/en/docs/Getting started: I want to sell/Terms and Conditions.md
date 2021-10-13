@@ -5,15 +5,15 @@ weight: 1
 description:
 ---
 
-a) Fact-checking organization authorize FACTS-NFT to mint selected fact checks as an NFT and to display them on a third-party marketplace (eg. OpenSea)
+a) The organization authorize FACTS-NFT to mint selected fact checks as an NFT and to display them on a third-party marketplace (eg. OpenSea)
 
-b) Fact-checking organization keeps the right to publish, sell and distribute the fact checks negotiated by FACTS-NFT. It's important to remember that once a fact check is minted, no changes can be made to its NFT version.
+b) The organization keeps the right to publish, sell and distribute the fact checks negotiated by FACTS-NFT. It's important to remember that once a fact check is minted, no changes can be made to its NFT version.
 
-c) Fact-checking organization authorizes buyers and auctioneers to resell their fact checks as a way to obtain financial profit. They will keep the percentage of the royalties if the buyer decides to resell using the same third-party marketplace. At this moment there is no way to keep a resold NFT on a cross-platform format.
+c) The organization authorizes buyers and auctioneers to resell their fact checks as a way to obtain financial profit. They will keep the percentage of the royalties if the buyer decides to resell using the same third-party marketplace. 
 
-d) Buyers and auctioneers know that they can't change a fact check and that the high quality of a fact check might be time-sensitive.
+d) Buyers and auctioneers know that they can't change the metadata and that the high quality of a fact might be time-sensitive.
 
-e) Revenue shares will be paid in Ethereum: 86.5% of each transaction is to be sent to the fact-checking organization; 10% to FACTS-NFT administration; 2,5% is to be withheld by OpenSea; and 1% will be paid to FACTS-NFT legal team. Note: fees to transact in Ethereum are costly and variable. They will be taken by fact-checking organizations.
+e) Revenue shares will be paid in Ethereum as defined by the referred collection.
 
 f) Payments can only take place up to 21 days after a transaction.
 
