@@ -5,9 +5,11 @@ weight: 4
 description:
 ---
 
-## Distribution scheme
+> In our MVP (the first collection released 2021Q1), the distribution is described as below. Any changes will be updated in the documentation for each season as soon as the collection is released.
 
-At this stage, FACTS-NFT will not charge fact-checking organizations for hosting their content on OpenSea. When an NFT is negotiated, the following division is set up on the smart contract:
+
+## Distribution scheme
+FACTS-NFT will not charge fact-checking organizations for hosting their content on OpenSea. When an NFT is negotiated, the following division is set up on the smart contract:
 
 | Beneficiaries              | Share |
 |----------------------------|-------|
